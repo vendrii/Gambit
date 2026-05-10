@@ -22,10 +22,11 @@ I use this space to bridge the gap between data, logic, and automation:
 ## 📂 Repository Structure
 Projects are categorized by language and intent to keep the workspace clean:
 
-* `📁 python/` — Automation scripts, API integrations, and data tools.
+* `📁 pyCake/` — Automation scripts, API integrations, and data tools.
 * `📁 sql/` — Schema designs, complex joins, and analytical queries.
 * `📁 automation/` — TypeScript and Google Apps Script projects.
 * `📁 daily-logs/` — Short, snippet-based solutions to daily challenges.
+* `📁 miniProject/` — Portfolio Project, data challenge.
 
 ---
 
